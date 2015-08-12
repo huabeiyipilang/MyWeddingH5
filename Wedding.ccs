@@ -1,0 +1,13 @@
+<Solution>
+  <PropertyGroup Name="Wedding" Version="2.3.1.2" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <Project Name="HomeScene.csd" Type="Scene" />
+        <Project Name="AlbumScene.csd" Type="Scene" />
+        <Image Name="page6.jpg" />
+        <Image Name="album_bkg.jpg" />
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>

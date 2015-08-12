@@ -1,0 +1,29 @@
+<UserData Version="2.3.1.2">
+  <Properties>
+    <Item Key="PackageParamsKey">
+      <Value ctype="PackageParams">
+        <LuaIsEncrypt Value="False" />
+        <LuaEncryptKey Value="" />
+        <LuaEncryptSign Value="" />
+        <Android_PackageName Value="org.cocos.Wedding" />
+        <AndroidkeyStore Value="" />
+        <AndroidVersion Value="android-14" />
+        <iOS_Target Value="Wedding iOS" />
+        <iOS_BundleID Value="iPhone Developer: Wei Feng Hou (K6UX644G7Q)" />
+        <Platform Value="None" />
+        <RunPlatform Value="None" />
+        <FrameworkVersion Value="cocos2d-x-3.4rc1" />
+        <IsDebugKeystore Value="True" />
+        <EnableSourceMap Value="False" />
+        <EnableHTML5Advanced Value="False" />
+      </Value>
+    </Item>
+    <Item Key="CocosRecentOperation">
+      <Value ctype="CocosRecentOperation">
+        <LastPublishType Value="CodeIDE" />
+        <IsLastPublish Value="True" />
+        <LastRunType Value="Mac" />
+      </Value>
+    </Item>
+  </Properties>
+</UserData>
