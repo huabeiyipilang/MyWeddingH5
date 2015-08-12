@@ -17,15 +17,15 @@
             <FileData Type="Normal" Path="page6.jpg" Plist="" />
             <BlendFunc Src="770" Dst="771" />
           </AbstractNodeData>
-          <AbstractNodeData Name="Button_2" ActionTag="-1226841739" Tag="5" IconVisible="False" LeftMargin="480.3776" RightMargin="15.6224" TopMargin="890.7199" BottomMargin="27.2801" TouchEnable="True" FontSize="36" ButtonText="更多照片" Scale9Enable="True" LeftEage="12" RightEage="12" TopEage="6" BottomEage="6" Scale9OriginX="12" Scale9OriginY="6" Scale9Width="15" Scale9Height="8" OutlineSize="0" ShadowOffsetX="0.0000" ShadowOffsetY="0.0000" ctype="ButtonObjectData">
-            <Size X="144.0000" Y="42.0000" />
+          <AbstractNodeData Name="Button_2" ActionTag="-1226841739" Tag="5" IconVisible="False" LeftMargin="449.5975" RightMargin="25.4025" TopMargin="886.6639" BottomMargin="31.3361" TouchEnable="True" FontSize="36" ButtonText="更多照片&gt;" Scale9Enable="True" LeftEage="12" RightEage="12" TopEage="6" BottomEage="6" Scale9OriginX="12" Scale9OriginY="6" Scale9Width="15" Scale9Height="8" OutlineSize="0" ShadowOffsetX="0.0000" ShadowOffsetY="0.0000" ctype="ButtonObjectData">
+            <Size X="165.0000" Y="42.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-            <Position X="552.3776" Y="48.2801" />
+            <Position X="532.0975" Y="52.3361" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
-            <CColor A="255" R="255" G="255" B="255" />
-            <PrePosition X="0.8631" Y="0.0503" />
-            <PreSize X="0.2250" Y="0.0437" />
-            <TextColor A="255" R="30" G="144" B="255" />
+            <CColor A="255" R="255" G="255" B="0" />
+            <PrePosition X="0.8314" Y="0.0545" />
+            <PreSize X="0.2578" Y="0.0437" />
+            <TextColor A="255" R="255" G="255" B="0" />
             <OutlineColor A="255" R="255" G="0" B="0" />
             <ShadowColor A="255" R="110" G="110" B="110" />
           </AbstractNodeData>

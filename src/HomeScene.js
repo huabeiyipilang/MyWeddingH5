@@ -244,8 +244,7 @@ var HomeScene = cc.Scene.extend({
 		arrow.y = 40;
 		this.addChild(arrow, 10, null);
 		
-		var blinkAnim = cc.repeatForever(cc.Sequence(cc.fadeOut(1), cc.fadeIn(1)));
-		arrow.runAction(blinkAnim);
+		arrow.runAction(cc.Sequence.create(cc.fadeOut(1), cc.fadeIn(1)).repeatForever());
 	},
 	onNextPage:function(){
 		index++;
@@ -261,8 +260,8 @@ var HomeScene = cc.Scene.extend({
 		this.showPage(pic1);
 	},
 	newPage:function(i){
-		var j = (i+4)%6;
-//		var j = i%6;
+//		var j = (i+4)%6;
+		var j = i%6;
 		switch (j) {
 		case 0:
 			return new PicPage1(this);

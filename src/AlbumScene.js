@@ -42,12 +42,12 @@ var Photo = cc.Sprite.extend({
 			onTouchMoved: function (touch, event) {
 				// 移动当前按钮精灵的坐标位置
 				var target = event.getCurrentTarget();
-				var touchMoveX = (target.x - originX);
-				var touchMoveY = (target.y - originY);
-				var distance2 = this.getDistance(touchMoveX,touchMoveY);
-				if(distance2 <= 200){
-					albumLayer.onNextScale(distance2);
-				}
+//				var touchMoveX = (target.x - originX);
+//				var touchMoveY = (target.y - originY);
+//				var distance2 = this.getDistance(touchMoveX,touchMoveY);
+//				if(distance2 <= 200){
+//					albumLayer.onNextScale(distance2);
+//				}
 				
 				var delta = touch.getDelta();
 				target.x += delta.x;
@@ -152,7 +152,7 @@ var AlbumLayer = cc.Layer.extend({
 	onNextScale:function(progress){
 //		cc.log("onNextScale:"+progress);
 		if ("undefined" != typeof pic2 && pic2) {
-			var scale = progress/40000;
+			var scale = progress/200;
 			pic2.setScaleX(scale);
 			pic2.setScaleY(scale);
 		}

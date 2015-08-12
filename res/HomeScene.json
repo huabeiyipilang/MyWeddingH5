@@ -59,10 +59,9 @@
           },
           {
             "FontSize": 36,
-            "ButtonText": "更多照片",
+            "ButtonText": "更多照片>",
             "TextColor": {
-              "R": 30,
-              "G": 144
+              "B": 0
             },
             "Scale9Enable": true,
             "Scale9OriginX": 12,
@@ -87,31 +86,33 @@
               "ScaleY": 0.5
             },
             "Position": {
-              "X": 552.3776,
-              "Y": 48.2801
+              "X": 532.0975,
+              "Y": 52.3361
             },
             "Scale": {
               "ScaleX": 1.0,
               "ScaleY": 1.0
             },
-            "CColor": {},
+            "CColor": {
+              "B": 0
+            },
             "IconVisible": false,
             "PrePosition": {
-              "X": 0.8631,
-              "Y": 0.0503
+              "X": 0.8314,
+              "Y": 0.0545
             },
             "PreSize": {
-              "X": 0.225,
+              "X": 0.2578,
               "Y": 0.0437
             },
-            "LeftMargin": 480.3776,
-            "RightMargin": 15.6224,
-            "TopMargin": 890.7199,
-            "BottomMargin": 27.2801,
+            "LeftMargin": 449.5975,
+            "RightMargin": 25.4025,
+            "TopMargin": 886.6639,
+            "BottomMargin": 31.3361,
             "Tag": 5,
             "ActionTag": -1226841739,
             "Size": {
-              "X": 144.0,
+              "X": 165.0,
               "Y": 42.0
             },
             "Name": "Button_2",

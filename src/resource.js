@@ -1,6 +1,5 @@
 var res = {
     HomeScene_json : "res/HomeScene.json",
-    BlessingScene_json : "res/BlessingScene.json",
     AlbumScene_json : "res/AlbumScene.json",
     Pic_frame : "res/pic_frame.png",
     Arrow_up : "res/home/arrow_up.png",
