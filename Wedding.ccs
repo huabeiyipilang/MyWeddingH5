@@ -5,8 +5,8 @@
       <RootFolder Name=".">
         <Project Name="HomeScene.csd" Type="Scene" />
         <Project Name="AlbumScene.csd" Type="Scene" />
-        <Image Name="page6.jpg" />
         <Image Name="album_bkg.jpg" />
+        <Image Name="page6.jpg" />
       </RootFolder>
     </Group>
   </SolutionFolder>

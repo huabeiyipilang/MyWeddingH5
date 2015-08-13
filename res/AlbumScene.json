@@ -29,7 +29,7 @@
               "ScaleY": 0.5
             },
             "Position": {
-              "X": 319.9999,
+              "X": 320.0,
               "Y": 479.1798
             },
             "Scale": {
@@ -47,8 +47,6 @@
               "Y": 0.0
             },
             "HorizontalEdge": "BothEdge",
-            "LeftMargin": -0.0001,
-            "RightMargin": 0.0001,
             "TopMargin": 0.8202,
             "BottomMargin": -0.8202,
             "Tag": 11,
@@ -64,7 +62,8 @@
             "FontSize": 36,
             "ButtonText": "<返回",
             "TextColor": {
-              "B": 0
+              "R": 0,
+              "G": 0
             },
             "Scale9OriginX": 9,
             "Scale9OriginY": 6,
@@ -87,29 +86,30 @@
               "ScaleY": 0.5
             },
             "Position": {
-              "X": 54.5,
-              "Y": 907.1218
+              "X": 66.5,
+              "Y": 919.0
             },
             "Scale": {
               "ScaleX": 1.0,
               "ScaleY": 1.0
             },
             "CColor": {
-              "B": 0
+              "R": 0,
+              "G": 0
             },
             "IconVisible": false,
             "PrePosition": {
-              "X": 0.0852,
-              "Y": 0.9449
+              "X": 0.1039,
+              "Y": 0.9573
             },
             "PreSize": {
               "X": 0.1453,
               "Y": 0.0437
             },
-            "LeftMargin": 8.0,
-            "RightMargin": 539.0,
-            "TopMargin": 31.8782,
-            "BottomMargin": 886.1218,
+            "LeftMargin": 20.0,
+            "RightMargin": 527.0,
+            "TopMargin": 20.0,
+            "BottomMargin": 898.0,
             "Tag": 16,
             "ActionTag": -765288781,
             "Size": {
